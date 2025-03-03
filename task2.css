@@ -1,0 +1,109 @@
+#id1{
+    height: 3000px;
+    width: 3500px;
+    border: 2px solid;
+   
+   display: flex;
+  border-radius: 50px;
+   flex-wrap: wrap;
+  align-items: center;
+  flex-direction:column ;
+  margin-left: 25%;
+  box-shadow: 10px 0px 40px 10px rgb(8, 8, 8) ;
+   
+}
+.childclass{
+    height: 1000px;
+    width: 800px;
+    border: 2px solid;
+    font-size: 100px;
+    position:absolute;
+   
+  text-align: center;
+
+    
+
+
+}
+
+
+#child1{
+margin-left: 5%;
+margin-top: 5%;
+border: 50px   solid;
+border-color: red;
+
+
+
+}
+
+#child2{
+margin-left: 10%;
+margin-top: 10%; border: 50px solid;
+border-style: dashed;
+border-color: blue;
+break-inside: avoid;
+background-color: white;
+
+
+
+
+}
+
+
+#child3{
+
+margin-left: 15%;
+margin-top: 15%;
+border: 50px solid;
+border-style: dotted;
+border-color: chocolate;
+background-color: white;
+
+
+}
+
+#child4{
+margin-left: 20%;
+margin-top: 20%;
+border: 50px solid;
+border-style:double;
+border-color:cadetblue;
+background-color: white;
+
+
+}
+#child5{
+
+margin-left: 25%;
+margin-top: 25%;
+border: 50px solid;
+border-style: groove;
+border-color:orange;
+background-color: white;
+
+}
+#child6{
+margin-left: 30%;
+margin-top: 30%;
+border: 50px solid;
+border-style: ridge;
+border-color:rgb(38, 251, 74);
+background-color: white;
+
+
+}
+#child7{
+margin-right: 30%;
+margin-top: 15%;
+border-radius: 450%;
+border: 15px solid black;
+display: flex;
+justify-content: center;
+align-items: center;
+
+
+}
+
+
+
